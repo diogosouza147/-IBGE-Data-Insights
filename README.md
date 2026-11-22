@@ -48,3 +48,7 @@ com `dotnet new maui` e copie-as para o projeto.
 
 O formato do JSON de Nomes é lido de forma tolerante em `Services/NomesJsonParser.cs`. Se o IBGE
 mudar a estrutura, só esse arquivo precisa de ajuste (o JSON bruto é logado em Debug).
+
+##Vídeo de demonstração
+
+https://drive.google.com/file/d/1IVBELl4utSebkqgt5xfzh7JSJzF1FriJ/view?usp=sharing
