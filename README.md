@@ -29,7 +29,7 @@ Requisitos: .NET 8 SDK, workload MAUI (`dotnet workload install maui`) e Android
 (ou Visual Studio 2022 com a carga de trabalho "Desenvolvimento para dispositivos móveis com .NET").
 
 ```bash
-git clone <URL-DO-REPOSITORIO>
+git clone <(https://github.com/diogosouza147/-IBGE-Data-Insights.git)>
 cd IbgeNomes
 dotnet build -t:Run -c Release
 ```
